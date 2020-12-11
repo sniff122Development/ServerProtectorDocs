@@ -2,7 +2,7 @@
 
 ServerProtector is a Discord bot that helps you to identify troublesome members joining your server by syncing ban lists from other servers and your own with the bot to alert you if a banned member joins your server.
 
-> Only the server ID, member ID, ban reason and time is stored and you can remove your synced ban entried at any time 
+> Only the server ID, member ID, ban reason and time is stored and you can remove your synced ban entries at any time 
 
 ##Basic Bot Information
 
