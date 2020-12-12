@@ -12,4 +12,4 @@ To set the owner and admin roles, use the `config admin/owner` command followed 
 
 To set the log channel for known banned users, use the `config channel` command (see [commands/config](/commands/config#channel))
 
-After setting these options, the bot will automatically sync existing bans and sync new bans, and will log known user bans in the channel you selected with teh `config channel` command. 
+After setting these options, the bot will automatically sync existing bans and sync new bans, and will log known user bans in the channel you selected with the `config channel` command. 
