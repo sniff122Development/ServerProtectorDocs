@@ -1,6 +1,6 @@
 # Getting Started With ServerProtector
 
-To get started with ServerProtector, first you need to invite the bot. You can do that by contacting @sniff122#6218 on discord or [@sniff122N](https://twitter.com/sniff122N) on Twitter.
+To get started with ServerProtector, first you need to invite the bot using [this](https://discord.com/oauth2/authorize?client_id=785828822414393345&permissions=313540&scope=bot) link.
 
 Once you have added ServerProtector to your server, you need to setup ban syncing, owner and admim roles and the log channel.
 
