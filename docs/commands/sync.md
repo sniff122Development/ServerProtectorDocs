@@ -19,3 +19,8 @@ Requires permission level 1 (Server Admin) to use
 > Removes all synced bans from the bot's database
 ### Arguments
 - none
+
+## `status`
+> Shows if the server's ban list is being synced with the bot
+### Arguments
+- none
