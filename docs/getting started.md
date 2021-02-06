@@ -2,7 +2,7 @@
 
 To get started with ServerProtector, first you need to invite the bot using [this](https://discord.com/oauth2/authorize?client_id=785828822414393345&permissions=313540&scope=bot) link.
 
-Once you have added ServerProtector to your server, you need to setup ban syncing, owner and admim roles and the log channel.
+Once you have added ServerProtector to your server, you need to setup ban syncing, owner and admin roles and the log channel.
 
 > the prefix for ServerProtector is `sp.`
 
