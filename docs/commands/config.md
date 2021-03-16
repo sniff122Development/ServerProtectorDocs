@@ -11,8 +11,12 @@
 - `Channel` - The channel to send the ban notifications to - **REQUIRED**
 
 
-## admin
-> Sets the admin permission role for configuring the bot
+## staff
+
+### Aliases:
+- `admin` 
+
+> Sets the staff permission role for using the bot
 
 > Requires permission level 2 (Server Owner) to use command
 
