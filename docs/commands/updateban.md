@@ -1,4 +1,4 @@
-# Updateban
+# updateban
 > Updates a ban reason in the bot's database
 
 > Requires permission level 1 (Server Staff) to use

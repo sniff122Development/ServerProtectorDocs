@@ -1,4 +1,4 @@
-# Sync
+# sync
 > Command group for ban syncing configuration   
 
 

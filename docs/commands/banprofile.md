@@ -1,4 +1,4 @@
-# Banprofile
+# banprofile
 > Gets a user's ban profile if one exists
 
 > Requires permssion level 1 (Server Staff) to use

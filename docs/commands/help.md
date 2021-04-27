@@ -1,4 +1,4 @@
-# Help
+# help
 > Displays command help information
 
 > Required permission level 0 (Everyone) to use
