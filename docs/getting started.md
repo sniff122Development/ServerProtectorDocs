@@ -7,6 +7,8 @@ Once you have added ServerProtector to your server, you need to setup ban syncin
 > the prefix for ServerProtector is `sp.`
 
 To enable ban syncing, use the `sync enable` command (see [commands/sync](/commands/sync#enable))
+- Before you can use ban syncing, you need to have your server approved, please join the support server [here](https://support.serverprotector.me) to have your server approved for ban syncing
+- You can still use ban logging and other features without having your server approved
 
 To set the owner and staff roles, use the `config staff/owner` command followed by the role you want to assign staff/owner permissions to (see [commands/config](/commands/config#staff))
 

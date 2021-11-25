@@ -1,6 +1,9 @@
 # sync
 > Command group for ban syncing configuration   
 
+### Note
+All of these commands require your server to be manually approved by ServerProtector support, please join the support server [here](https://support.serverprotector.me) to have your server approved.
+
 
 ## `enable`
 > Enabled ban syncing and performs a first sync of bans
